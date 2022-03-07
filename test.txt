@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this branch is master
+=======
+this branch is master 
+this branch is dev
+>>>>>>> dev
